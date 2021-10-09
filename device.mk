@@ -469,6 +469,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     com.android.vndk.current.on_vendor
 
+PRODUCT_EXTRA_VNDK_VERSIONS := 29 30 31
+
 # WiFi
 PRODUCT_PACKAGES += \
     android.hardware.wifi@1.0-service \
