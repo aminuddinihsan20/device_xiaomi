@@ -1,24 +1,5 @@
 [
   {
-    "remote"       : "github",
-    "repository"   : "aminuddinihsan20/vendor_xiaomi_surya",
-    "target_path"  : "vendor/xiaomi/surya",
-    "branch"       : "12"
-  },
-  {
-    "remote"       : "github",
-    "repository"   : "silont-project/kernel_xiaomi_surya",
-    "target_path"  : "kernel/xiaomi/surya",
-    "clone-depth"  : "1",
-    "branch"       : "1"
-  },
-  {
-   "remote"        :"github",
-   "repository"    :"kdrag0n/proton-clang",
-   "target_path"   :"prebuilts/clang/host/linux-x86/clang-proton",
-   "branch"        :"master"
- },
- {
    "remote"        :"gitlab",
    "repository"    :"subhajeetmuhuri/proprietary_firmware_xiaomi_surya",
    "target_path"   :"firmware/xiaomi/surya",
