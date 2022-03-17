@@ -1,7 +1,7 @@
 [
   {
     "remote"       : "github",
-    "repository"   : "NusantaraROM-Devices/vendor_xiaomi_surya",
+    "repository"   : "aminuddinihsan20/vendor_xiaomi_surya",
     "target_path"  : "vendor/xiaomi/surya",
     "branch"       : "12"
   },
@@ -10,7 +10,7 @@
     "repository"   : "silont-project/kernel_xiaomi_surya",
     "target_path"  : "kernel/xiaomi/surya",
     "clone-depth"  : "1",
-    "branch"       : "marin"
+    "branch"       : "1"
   },
   {
    "remote"        :"github",
