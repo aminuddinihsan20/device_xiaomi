@@ -40,9 +40,6 @@ USE_PIXEL_CHARGING := true
 # Quick Tap
 TARGET_SUPPORTS_QUICK_TAP := true
 
-# pixel build flag, if not define build type is vanilla
-WITH_GAPPS := true
-
 # only applicaple to pixel builds (WITH_GAPPS,) default is lawnchair for vanilla build
 PREBUILT_LAWNCHAIR := true
 
